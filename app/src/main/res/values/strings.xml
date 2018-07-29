@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom_View</string>
+    <string name="Tips">Click the toogle button to activate custom edit text</string>
+</resources>
